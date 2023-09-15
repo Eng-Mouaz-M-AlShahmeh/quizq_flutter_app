@@ -1,0 +1,29 @@
+# Developed by Eng Mouaz M AlShahmeh
+name: quizq_flutter
+description: Developed by Eng Mouaz M AlShahmeh
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.7
+  get: ^4.6.6
+  firebase_core: ^2.15.1
+  cloud_firestore: ^4.9.1
+#  firebase_ui_oauth_twitter: ^1.2.11
+#  firebase_ui_auth: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/

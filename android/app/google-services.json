@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123688288179",
+    "project_id": "quizq-app",
+    "storage_bucket": "quizq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123688288179:android:706e7272f569d1e3f995c6",
+        "android_client_info": {
+          "package_name": "com.engmouaz.quizq_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-mNVC7ytL147kIUNDiyVK36fSxIRVLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
