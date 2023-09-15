@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyClrvj7S_1Nk-KmxNy8wDyk3m-BO4CKWvs',
-    appId: '1:123688288179:web:468e61263e6174fcf995c6',
-    messagingSenderId: '123688288179',
-    projectId: 'quizq-app',
-    authDomain: 'quizq-app.firebaseapp.com',
-    storageBucket: 'quizq-app.appspot.com',
-    measurementId: 'G-K5S82WZPXR',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAY-mNVC7ytL147kIUNDiyVK36fSxIRVLk',
-    appId: '1:123688288179:android:706e7272f569d1e3f995c6',
-    messagingSenderId: '123688288179',
-    projectId: 'quizq-app',
-    storageBucket: 'quizq-app.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCpW1ZPunug6HyS2cpW12FLkYKmDPwrw7E',
-    appId: '1:123688288179:ios:febc12c28781a638f995c6',
-    messagingSenderId: '123688288179',
-    projectId: 'quizq-app',
-    storageBucket: 'quizq-app.appspot.com',
-    iosBundleId: 'com.engmouaz.quizqFlutter',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCpW1ZPunug6HyS2cpW12FLkYKmDPwrw7E',
-    appId: '1:123688288179:ios:e64b75bd725d2a96f995c6',
-    messagingSenderId: '123688288179',
-    projectId: 'quizq-app',
-    storageBucket: 'quizq-app.appspot.com',
-    iosBundleId: 'com.engmouaz.quizqFlutter.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
